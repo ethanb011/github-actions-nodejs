@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "os-utils": "^0.0.14"
-  }
+  },
+  "name": "week6lab",
+  "version": "1.0.0",
+  "main": "system-info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanb011/github-actions-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanb011/github-actions-nodejs/issues"
+  },
+  "homepage": "https://github.com/ethanb011/github-actions-nodejs#readme",
+  "description": ""
 }
